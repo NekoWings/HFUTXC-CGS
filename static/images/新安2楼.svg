@@ -1,0 +1,277 @@
+<svg width="3600.0013980709473" height="1799.9956991029753" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <defs>
+  <filter id="svg_43_blur">
+   <feGaussianBlur stdDeviation="0.2"/>
+  </filter>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect id="canvas_background" fill="#fff" x="-1" y="-1" width="6001.99887" height="3001.991102"/>
+  <g id="canvasGrid" display="none">
+   <rect id="svg_2" fill="url(#gridpattern)" stroke-width="0" x="0" y="0" width="100%" height="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_4" d="m180.416679,176.249951c0,0.833333 120.833341,-2.5 120.833341,-2.5c0,0 -1.666666,25.000001 -1.666666,25.000001c0,0 -120.000008,0.833334 -120.000008,0.833334c0,0 0.833333,-24.166668 0.833333,-23.333335z" fill-opacity="null" stroke-width="0" stroke="#a5a5a5" fill="#a5a5a5"/>
+  <rect id="svg_106" fill="#a5a5a5" stroke="#000" stroke-opacity="null" stroke-width="0" x="840.166667" y="159.666667" width="20" height="62"/>
+  <path id="svg_1" opacity="0.5" fill="#fff" stroke="#000" stroke-width="1.5" d="m101,100"/>
+  <rect id="svg_6" fill="#00b0f0" stroke="#000" stroke-width="2" x="120" y="180" width="40" height="60"/>
+  <rect id="svg_8" fill="#00b0f0" stroke="#000" stroke-width="2" x="120" y="240" width="40" height="60"/>
+  <rect id="svg_10" fill="#00b0f0" stroke="#000" stroke-width="2" x="120" y="299.997" width="40" height="60"/>
+  <rect id="svg_15" fill="#00b0f0" stroke="#000" stroke-width="2" x="279.992" y="300" width="40" height="60"/>
+  <rect id="svg_17" fill="#00b0f0" stroke="#000" stroke-opacity="null" stroke-width="2" x="159.993" y="360" width="60" height="40"/>
+  <rect id="svg_18" fill="#00b0f0" stroke="#000" stroke-opacity="null" stroke-width="2" x="279.992" y="240" width="40" height="60"/>
+  <rect id="svg_19" fill="#fff" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" x="299.992" y="262.997" width="2.99997" height="0"/>
+  <rect id="svg_20" fill="#00b0f0" stroke="#000" stroke-opacity="null" stroke-width="2" x="220" y="360" width="60" height="40"/>
+  <rect id="svg_22" fill="#00b0f0" stroke="#000" stroke-opacity="null" stroke-width="2" x="180" y="101" width="80" height="60"/>
+  <rect id="svg_23" fill="#00b0f0" stroke="#000" stroke-opacity="null" stroke-width="2" x="291" y="101" width="80" height="60"/>
+  <rect id="svg_24" fill="#00b0f0" stroke="#000" stroke-opacity="null" stroke-width="2" x="371" y="101" width="80" height="59.9993"/>
+  <rect id="svg_25" fill="#00b0f0" stroke="#000" stroke-opacity="null" stroke-width="2" x="341.991" y="200.997" width="39.9996" height="58.9993"/>
+  <rect id="svg_26" fill="#00b0f0" stroke="#000" stroke-opacity="null" stroke-width="2" x="342" y="260" width="40" height="62"/>
+  <rect id="svg_27" fill="#00b0f0" stroke="#000" stroke-opacity="null" stroke-width="2" x="342" y="321" width="40" height="59.9993"/>
+  <rect id="svg_28" fill="#00b0f0" stroke="#000" stroke-opacity="null" stroke-width="2" x="480" y="321" width="50" height="60"/>
+  <rect id="svg_29" fill="#00b0f0" stroke="#000" stroke-opacity="null" stroke-width="2" x="480" y="261" width="50" height="60"/>
+  <rect id="svg_30" fill="#00b0f0" stroke="#000" stroke-opacity="null" stroke-width="2" x="550" y="340" width="59.9993" height="60"/>
+  <rect id="svg_31" fill="#00b0f0" stroke="#000" stroke-opacity="null" stroke-width="2" x="630" y="320" width="50" height="59.9993"/>
+  <rect id="svg_32" fill="#00b0f0" stroke="#000" stroke-opacity="null" stroke-width="2" x="630" y="260" width="50" height="60"/>
+  <rect id="svg_33" fill="#00b0f0" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" x="679.987" y="160" width="40" height="40"/>
+  <rect id="svg_34" fill="#00b0f0" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" x="720" y="160" width="40" height="40"/>
+  <rect id="svg_35" fill="#00b0f0" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" x="759.986" y="159.998" width="40" height="40"/>
+  <rect id="svg_36" fill="#00b0f0" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" x="799.986" y="260" width="40" height="60"/>
+  <rect id="svg_37" fill="#00b0f0" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" x="799.986" y="320" width="40" height="60"/>
+  <rect id="svg_38" fill="#00b0f0" stroke="#000" stroke-opacity="null" stroke-width="2" x="860" y="230" width="40" height="30"/>
+  <rect id="svg_39" fill="#00b0f0" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" x="860" y="260" width="40" height="30"/>
+  <rect id="svg_40" fill="#00b0f0" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" x="860" y="350" width="39.9996" height="60"/>
+  <rect id="svg_41" fill="#00b0f0" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" x="860" y="290" width="39.9996" height="60"/>
+  <text id="svg_42" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="120" y="338" xml:space="preserve">232</text>
+  <text id="svg_43" font-family="Helvetica,Arial,sans-serif" font-size="NaN" filter="url(#svg_43_blur)" fill="#000000" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="139.9933" y="270.997" xml:space="preserve">233</text>
+  <text id="svg_44" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="146.9932" y="274.9969" xml:space="preserve"/>
+  <rect id="svg_47" fill="#00b0f0" stroke="#000" stroke-opacity="null" stroke-width="2" x="120" y="240" width="40" height="60"/>
+  <text id="svg_48" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="130" y="274" xml:space="preserve">233</text>
+  <rect id="svg_49" fill="#00b0f0" stroke="#000" stroke-opacity="null" stroke-width="2" x="120" y="300" width="39.9996" height="60"/>
+  <text id="svg_50" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="130" y="333" xml:space="preserve">232</text>
+  <text id="svg_51" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="130" y="215" xml:space="preserve">234</text>
+  <text id="svg_52" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="210" y="135" xml:space="preserve">222</text>
+  <text id="svg_53" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="320" y="135" xml:space="preserve">221</text>
+  <text id="svg_54" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="400" y="135" xml:space="preserve">220</text>
+  <text id="svg_55" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="182" y="385" xml:space="preserve">230</text>
+  <text id="svg_56" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="240" y="385" xml:space="preserve">229</text>
+  <text id="svg_57" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="290" y="275" xml:space="preserve">226</text>
+  <text id="svg_58" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="290" y="335" xml:space="preserve">227</text>
+  <text id="svg_59" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="350" y="355" xml:space="preserve">225</text>
+  <text id="svg_60" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="352" y="295" xml:space="preserve">224</text>
+  <text id="svg_61" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="353" y="234.9973" xml:space="preserve">223</text>
+  <text id="svg_62" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="495" y="355" xml:space="preserve">216</text>
+  <text id="svg_63" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="495" y="295" xml:space="preserve">217</text>
+  <text id="svg_64" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="570" y="375" xml:space="preserve">215</text>
+  <text id="svg_65" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="645" y="355" xml:space="preserve">213</text>
+  <text id="svg_66" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="645" y="295" xml:space="preserve">212</text>
+  <text id="svg_67" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="690" y="184" xml:space="preserve">211</text>
+  <text id="svg_68" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="730" y="184" xml:space="preserve">210</text>
+  <text id="svg_69" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="770" y="184" xml:space="preserve">209</text>
+  <text id="svg_70" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="810" y="295" xml:space="preserve">207</text>
+  <text id="svg_71" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="810" y="355" xml:space="preserve">206</text>
+  <text id="svg_72" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="870" y="250" xml:space="preserve">201</text>
+  <text id="svg_73" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="870" y="280" xml:space="preserve">202</text>
+  <text id="svg_74" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="870" y="325" xml:space="preserve">203</text>
+  <text id="svg_75" font-family="Helvetica,Arial,sans-serif" font-size="NaN" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" text-anchor="start" x="870" y="382" xml:space="preserve">204</text>
+  <rect id="svg_76" fill="#ffffff" stroke="#000" stroke-opacity="null" stroke-width="2" x="120" y="120" width="40" height="40"/>
+  <rect id="svg_77" fill="#ffffff" stroke="#000" stroke-opacity="null" stroke-width="2" x="279.992" y="200" width="39.9996" height="40"/>
+  <rect id="svg_78" fill="#ffffff" stroke="#000" stroke-opacity="null" stroke-width="2" x="119.994" y="360" width="40" height="19.9998"/>
+  <rect id="svg_79" fill="#ffffff" stroke="#000" stroke-opacity="null" stroke-width="2" x="279.992" y="360" width="39.9996" height="20"/>
+  <rect id="svg_80" fill="#ffffff" stroke="#000" stroke-opacity="null" stroke-width="2" x="360" y="180" width="19.9998" height="20"/>
+  <rect id="svg_81" fill="#ffffff" stroke="#000" stroke-opacity="null" stroke-width="2" x="479.99" y="180" width="40" height="40"/>
+  <rect id="svg_82" fill="#ffffff" stroke="#000" stroke-opacity="null" stroke-width="2" x="629.988" y="220" width="49.9994" height="40"/>
+  <rect id="svg_83" fill="#ffffff" stroke="#000" stroke-opacity="null" stroke-width="2" x="490" y="219.997" width="30" height="20"/>
+  <rect id="svg_84" fill="#ffffff" stroke="#000" stroke-opacity="null" stroke-width="2" x="630" y="380" width="50" height="20"/>
+  <rect id="svg_85" fill="#ffffff" stroke="#000" stroke-opacity="null" stroke-width="2" x="800" y="220" width="40" height="39.9996"/>
+  <rect id="svg_86" fill="#ffffff" stroke="#000" stroke-opacity="null" stroke-width="2" x="810" y="380" width="30" height="20"/>
+  <rect id="svg_87" fill="#ffffff" stroke="#000" stroke-opacity="null" stroke-width="2" x="800" y="160" width="40" height="19.9998"/>
+  <rect stroke="#000" id="svg_88" fill="#a5a5a5" stroke-opacity="null" stroke-width="0" x="100" y="100" width="20" height="318.999999"/>
+  <rect id="svg_89" fill="#a5a5a5" stroke="#000" stroke-opacity="null" stroke-width="0" x="120" y="100" width="40" height="20"/>
+  <rect id="svg_90" fill="#a5a5a5" stroke="#000" stroke-opacity="null" stroke-width="0" x="120" y="400" width="262" height="20"/>
+  <rect id="svg_91" fill="#a5a5a5" stroke="#000" stroke-opacity="null" stroke-width="0" x="120" y="380" width="40" height="20"/>
+  <rect id="svg_92" fill="#a5a5a5" stroke="#000" stroke-opacity="null" stroke-width="0" x="280" y="379.996" width="100" height="20"/>
+  <rect id="svg_93" fill="#a5a5a5" stroke="#000" stroke-opacity="null" stroke-width="0" x="320" y="200" width="22" height="181"/>
+  <rect id="svg_94" fill="#a5a5a5" stroke="#a5a5a5" stroke-width="2" x="320" y="180" width="40" height="20"/>
+  <rect id="svg_95" fill="#a5a5a5" stroke="#000" stroke-opacity="null" stroke-width="0" x="180.666667" y="160.833335" width="371" height="20"/>
+  <rect id="svg_96" fill="#a5a5a5" stroke="#000" stroke-opacity="null" stroke-width="0" x="529" y="399.996" width="101" height="19"/>
+  <rect id="svg_97" fill="#a5a5a5" stroke="#000" stroke-opacity="null" stroke-width="0" x="530" y="180" width="20" height="220"/>
+  <rect id="svg_98" fill="#a5a5a5" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" x="609.988" y="160" width="20" height="240"/>
+  <rect id="svg_100" fill="#a5a5a5" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" x="120" y="160" width="40" height="20"/>
+  <line id="svg_101" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="160" y1="100.9988" x2="180" y2="101"/>
+  <line id="svg_102" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="260" y1="101" x2="290" y2="101"/>
+  <rect id="svg_103" fill="#a5a5a5" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" x="630" y="200" width="230" height="20"/>
+  <rect id="svg_104" fill="#a5a5a5" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" x="820" y="180" width="40" height="20"/>
+  <rect id="svg_105" fill="#a5a5a5" stroke="#000" stroke-opacity="null" stroke-width="0" x="840" y="220" width="19.9998" height="201"/>
+  <rect id="svg_110" fill="#a5a5a5" stroke="#000" stroke-opacity="null" stroke-width="2" x="664.987" y="159.998" width="20" height="40"/>
+  <rect id="svg_111" fill="#a5a5a5" stroke="#000" stroke-opacity="null" stroke-width="0" x="520" y="179.998" width="30" height="79.9991"/>
+  <rect id="svg_112" fill="#70ad47" stroke="#000" stroke-opacity="null" stroke-width="2" x="480" y="239.997" width="50" height="20"/>
+  <rect id="svg_113" fill="#7030a0" stroke="#7030a0" stroke-width="2" x="664.987" y="180" width="19.9998" height="20"/>
+  <rect id="svg_114" fill="#ffffff" stroke="#000" stroke-opacity="null" stroke-width="2" x="382" y="220" width="65" height="160"/>
+  <rect id="svg_115" fill="#70ad47" stroke="#000" stroke-opacity="null" stroke-width="2" x="630" y="400" width="50" height="20"/>
+  <rect id="svg_116" fill="#70ad47" stroke="#000" stroke-opacity="null" stroke-width="2" x="800" y="400" width="40" height="19.9998"/>
+  <rect id="svg_117" fill="#70ad47" stroke="#000" stroke-opacity="null" stroke-width="2" x="630" y="160" width="36" height="20"/>
+  <rect id="svg_118" fill="#70ad47" stroke="#000" stroke-opacity="null" stroke-width="2" x="860" y="160" width="40" height="20"/>
+  <line id="svg_119" fill="none" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="550" y1="160" x2="570" y2="159.998"/>
+  <line id="svg_120" fill="none" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="610" y1="161" x2="590" y2="161"/>
+  <line id="svg_121" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="259.992" y1="129.999" x2="271" y2="129.999"/>
+  <line id="svg_122" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="290" y1="129.999" x2="280" y2="130"/>
+  <line id="svg_123" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="139.993" y1="159.998" x2="139.993" y2="167.998"/>
+  <line id="svg_124" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="139.993" y1="178.998" x2="139.993" y2="172.998"/>
+  <line id="svg_125" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="495.989" y1="159.998" x2="495.989" y2="165"/>
+  <line id="svg_126" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="495.989" y1="175" x2="495.989" y2="180"/>
+  <line id="svg_127" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="665.987" y1="199" x2="666" y2="206.998"/>
+  <line id="svg_128" fill="none" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="665.987" y1="215" x2="666" y2="220"/>
+  <rect id="svg_131" fill="#a5a5a5" stroke="#000" stroke-opacity="null" stroke-width="0" x="479.833333" y="380" width="52" height="41"/>
+  <ellipse id="svg_133" fill="#ff0047" stroke="#000" stroke-opacity="null" stroke-width="2" cx="841.486" cy="410.495" rx="1.49998" ry="0.499994"/>
+  <ellipse id="svg_134" fill="#ff0047" stroke="#000" stroke-opacity="null" stroke-width="0" transform="rotate(9 840.0000000000009,411.00000000000045) " cx="840" cy="411" rx="3.99996" ry="4"/>
+  <ellipse id="svg_135" fill="#ff0047" stroke="#000" stroke-opacity="null" stroke-width="0" cx="860" cy="170" rx="3.99996" ry="4"/>
+  <ellipse id="svg_137" fill="#ff0047" stroke="#000" stroke-opacity="null" stroke-width="0" cx="630" cy="410" rx="3.99996" ry="4"/>
+  <ellipse id="svg_138" fill="#000000" stroke="#000" stroke-opacity="null" stroke-width="2" cx="120" cy="189" rx="4" ry="4"/>
+  <ellipse id="svg_139" fill="#000000" stroke="#000" stroke-opacity="null" stroke-width="2" cx="120" cy="232" rx="4" ry="4"/>
+  <ellipse id="svg_140" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="120" cy="248" rx="4" ry="4"/>
+  <ellipse id="svg_141" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="120" cy="291" rx="4" ry="3.99996"/>
+  <ellipse id="svg_142" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="119.994" cy="308" rx="4" ry="4.49995"/>
+  <ellipse id="svg_143" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="120" cy="351" rx="4.49995" ry="4"/>
+  <ellipse id="svg_144" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="168" cy="400" rx="4.49995" ry="4"/>
+  <ellipse id="svg_145" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="211" cy="400" rx="4" ry="4"/>
+  <ellipse id="svg_146" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="229" cy="400" rx="4.49995" ry="3.99996"/>
+  <ellipse id="svg_147" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="271" cy="400" rx="4" ry="4"/>
+  <ellipse id="svg_148" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="320" cy="250" rx="3.99996" ry="4.49995"/>
+  <ellipse id="svg_149" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="320" cy="291" rx="4" ry="4"/>
+  <ellipse id="svg_150" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="320.491" cy="310" rx="4" ry="3.99996"/>
+  <ellipse id="svg_151" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="320" cy="350" rx="4" ry="3.99996"/>
+  <ellipse id="svg_152" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="343" cy="371" rx="3.99996" ry="4"/>
+  <ellipse id="svg_153" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="343" cy="330" rx="3.99996" ry="4.49995"/>
+  <ellipse id="svg_154" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="343" cy="313" rx="4" ry="4"/>
+  <ellipse id="svg_155" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="343" cy="268" rx="4" ry="3.99996"/>
+  <ellipse id="svg_156" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="343" cy="251" rx="3.99996" ry="4"/>
+  <ellipse id="svg_157" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="343.491" cy="211" rx="4.49995" ry="4.49995"/>
+  <ellipse id="svg_158" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="188" cy="160" rx="3.99996" ry="4"/>
+  <ellipse id="svg_159" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="252" cy="160" rx="4" ry="4.49995"/>
+  <ellipse id="svg_160" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="299" cy="160" rx="4" ry="4"/>
+  <ellipse id="svg_161" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="363" cy="160" rx="4" ry="3.99996"/>
+  <ellipse id="svg_162" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="379" cy="160" rx="4" ry="3.99996"/>
+  <ellipse id="svg_163" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="443" cy="160" rx="4" ry="4"/>
+  <ellipse id="svg_164" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="530" cy="271" rx="4.49995" ry="4"/>
+  <ellipse id="svg_165" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="530" cy="311" rx="4.49995" ry="3.99996"/>
+  <ellipse id="svg_166" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="530.489" cy="331" rx="4" ry="4.49995"/>
+  <ellipse id="svg_167" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="530" cy="370" rx="4" ry="4"/>
+  <ellipse id="svg_168" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="558" cy="400" rx="4" ry="3.99996"/>
+  <ellipse id="svg_169" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="602" cy="399.996" rx="4" ry="4"/>
+  <ellipse id="svg_170" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="630" cy="261" rx="4" ry="4"/>
+  <ellipse id="svg_171" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="629.988" cy="311" rx="3.99996" ry="4"/>
+  <ellipse id="svg_172" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="630" cy="325" rx="3.99996" ry="3.99996"/>
+  <ellipse id="svg_173" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="630" cy="374.996" rx="4" ry="3.99996"/>
+  <ellipse id="svg_174" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="692" cy="200" rx="4.49995" ry="3.99996"/>
+  <ellipse id="svg_175" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="712" cy="200" rx="4.49995" ry="4"/>
+  <ellipse id="svg_176" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="727" cy="199.998" rx="4" ry="4"/>
+  <ellipse id="svg_177" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="753" cy="199.998" rx="4" ry="4"/>
+  <ellipse id="svg_178" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="768" cy="200" rx="4" ry="3.99996"/>
+  <ellipse id="svg_179" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="793" cy="200" rx="3.99996" ry="4"/>
+  <ellipse id="svg_180" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="840" cy="269" rx="4" ry="4.49995"/>
+  <ellipse id="svg_181" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="840" cy="310" rx="4.49995" ry="4"/>
+  <ellipse id="svg_182" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="840.486" cy="330" rx="4" ry="3.99996"/>
+  <ellipse id="svg_183" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="840" cy="370" rx="4" ry="4"/>
+  <ellipse id="svg_184" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="860" cy="403" rx="3.99996" ry="4"/>
+  <ellipse id="svg_185" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="860" cy="357" rx="4.49995" ry="4"/>
+  <ellipse id="svg_186" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="860" cy="342" rx="4" ry="4"/>
+  <ellipse id="svg_187" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="860" cy="299" rx="4" ry="4.49995"/>
+  <ellipse id="svg_188" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="860" cy="283" rx="4" ry="4"/>
+  <ellipse id="svg_189" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="860" cy="267" rx="3.99996" ry="4"/>
+  <ellipse id="svg_190" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="860" cy="252" rx="4.49995" ry="4"/>
+  <ellipse id="svg_191" fill="#000000" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" cx="860" cy="237" rx="4.49995" ry="4"/>
+  <path id="svg_192" fill="none" stroke="#000" stroke-opacity="null" stroke-width="0" d="m99.993767,194.997772c0,1 -0.999992,1 -0.999992,1.999985c0,0 0,0.999985 0,1.999969c0,0 0,1 0,1.999985c0,0 0,0.999985 0,0.999985l0,1"/>
+  <path id="svg_193" fill="none" stroke="#000" stroke-opacity="null" stroke-width="0" d="m99.993767,188.997849c-0.999992,0 -0.999992,0.999985 -0.999992,1.999969c0,0 0,1 0,1c0,0.999985 0,0.999985 0,1.999969c0,0.999985 0,0.999985 0,1.999985c0,0.999985 0,0.999985 0,1.999969l-0.999985,0l0,0.999985"/>
+  <path id="svg_194" fill="none" stroke="#000" stroke-opacity="null" stroke-width="0" d="m98.993774,196.997757c0,0.999985 0,1.999969 0,1.999969c0,1 0,1.999985 0,1.999985c0,0.999985 0,1.999985 0,1.999985c0,0.999985 0,1.999969 0,1.999969l0,0.999985"/>
+  <path id="svg_195" fill="none" stroke="#000" stroke-opacity="null" stroke-width="0" d="m98.993774,204.997665c0,0.999985 0,1.999985 0,1.999985c0,0.999985 0,1.999969 0,1.999969c0,0 0,0.999985 0,1.999985c0,0 0,0.999985 0,1.999969c0,0 0.999992,1.999985 0.999992,1.999985c0,0.999985 0,1.999969 0,1.999969c0.999992,1 0.999992,1.999985 0.999992,2.999969l0,1l0,0l0,0.999985"/>
+  <path id="svg_196" fill="none" stroke="#000" stroke-opacity="null" stroke-width="0" d="m106.99369,321.996368c0,-1 0,-1 0,-1.999969c0,-1 0,-1 0,-1.999969c0,-1 0,-1 0,-2c0,-0.999969 0,-0.999969 0,-1.999969c0,-1 0,-1 0,-1.999969c0,-1 0,-1 0,-2l0,-0.999969l0,0l0,-1"/>
+  <path id="svg_197" fill="#000005" stroke="#000" stroke-opacity="null" stroke-width="0" d="m99.993767,311.99649c0,0.999969 0,0.999969 0,1.999969c0,1 0,1 0,1.999969c0,1 0,1 0,2l0,0.999969l0,0l0,1"/>
+  <path id="svg_198" fill="none" stroke="#000" stroke-opacity="null" stroke-width="0" d="m65.994141,251.997147c0,0.999985 -0.458801,0.693436 -0.999985,1.999985c-0.382675,0.923874 0,0.999985 0,1.999969c0,1 -0.458801,0.693451 -0.999989,1.999969c-0.382687,0.923889 -0.999989,1 -0.999989,2c0,0.999969 0,0.999969 0,1.999969c0,0.999969 -0.999992,0.999969 -0.999992,1.999969c0,1 0,1 0,1.999969c0,1 -0.999989,1 -0.999989,2c0,0.999969 0,0.999969 0,1.999969c0,1 0,1 0,1.999969c0,1 -0.999989,1 -0.999989,1.999969c0,1 0.707108,1.292908 0,2c-0.7071,0.707092 -0.999989,0.999969 -0.999989,0.999969c0,1 0,2 0,2c0,0 0,0.999969 0,1.999969c0,0 0,1 0,1.999969c0,0 0.707108,1.292908 0,2c-0.7071,0.707092 -0.999989,0 -0.999989,0.999969c0,1 0,1 0,1.999969l0,1"/>
+  <path id="svg_199" fill="none" stroke="#000" stroke-opacity="null" stroke-width="0" d="m60.994198,147.998306c0,0.999985 0,0.999985 0,1.999969c0,0.999985 0,0.999985 0,1.999985c0,0.999985 0.292889,1.292877 0.999989,1.999969c0.707096,0.707092 0,1.999985 0,2.999969c0,0 0.999992,0 0.999992,1.999985c0,0 0,1.999969 0,1.999969c0,0.999985 0,1.999985 0,2.999969c0,0.999985 0,1.999969 0,2.999969c0,1.999969 0,1.999969 0,2.999969c0,0.999985 0.999989,1.999969 0.999989,2.999954c0,1.999985 0.999989,1.999985 0.999989,2.999969c0,0.999985 0,1.999985 0,2.999969c0,0.999985 0,1.999985 0,1.999985c0,0.999985 0,1.999969 0,1.999969c0.999985,0.999985 0.999985,1.999985 0.999985,1.999985c0,0.999985 0,1.999969 0,1.999969c0,0.999985 0.999992,0.999985 0.999992,1.999985l0,0l0,0.999985"/>
+  <path id="svg_200" fill="none" stroke="#000" stroke-opacity="null" stroke-width="0" d="m34.994488,152.998245c0,0 0,0.999985 0,1.999969c0,0 -0.707096,1.292892 0,1.999985c0.7071,0.707092 0.999989,0.999985 1.999977,1.999985c0,0 0,0.999985 0.999989,1.999969c0,0 0.999989,0.999985 0.999989,1.999985c0,0 0.458797,0.69342 0.999989,1.999969c0.765362,1.847748 0.617317,3.07608 0.999992,3.999954c0.541191,1.306564 1.458786,1.69342 1.999977,2.999969c0.382679,0.923859 1.292877,1.292892 1.999977,1.999985c0.707096,0.707092 -0.382675,2.07608 0,2.999954c0.541191,1.306564 1.458786,1.69342 1.999977,2.999969c0.382683,0.923874 0.999989,1 0.999989,1c0,1.999969 0.458797,1.693405 0.999989,2.999954c0.382683,0.923874 0.61731,1.076126 0.999989,1.999985c0.541191,1.306549 0.999989,1.999969 0.999989,2.999969c0,0 1.292881,0.292892 1.999981,0.999985c0.707096,0.707092 -0.382683,1.076111 0,1.999985c0.541191,1.306549 1.292877,0.292892 1.999977,0.999985c0.707096,0.707092 0,1.999969 0,1.999969c0,1 0,1 0,1.999985l0,0l0.999989,0.999985l0.999989,0"/>
+  <rect stroke="#000" id="svg_205" fill="#a5a5a5" stroke-opacity="null" stroke-width="0" x="548" y="135.00001" width="64.9993" height="26.99999"/>
+  <rect id="svg_206" fill="#a5a5a5" stroke="#000" stroke-opacity="null" stroke-width="0" x="630" y="181" width="35" height="20"/>
+  <rect id="svg_207" fill="#a5a5a5" stroke="#000" stroke-opacity="null" stroke-width="0" x="549.989" y="161.998" width="61.9993" height="61.9993"/>
+  <line id="svg_210" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="548" y1="159.998" x2="570" y2="160"/>
+  <line id="svg_211" fill="none" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="590" y1="160" x2="612" y2="160"/>
+  <rect id="svg_212" fill="#70ad47" stroke="#000" stroke-opacity="null" stroke-width="2" x="481" y="381" width="49" height="20"/>
+  <rect id="svg_213" fill="#70ad47" stroke="#000" stroke-opacity="null" stroke-width="0" x="509" y="390.996" width="4.99994" height="7.99991"/>
+  <rect id="svg_214" fill="#70ad47" stroke="#000" stroke-opacity="null" stroke-width="2" x="341" y="380.996" width="40" height="19.9998"/>
+  <rect id="svg_215" fill="#70ad47" stroke="#000" stroke-opacity="null" stroke-width="2" x="60" y="199" width="40" height="20"/>
+  <rect id="svg_216" fill="#70ad47" stroke="#000" stroke-opacity="null" stroke-width="2" x="60" y="340" width="40" height="20"/>
+  <rect id="svg_217" fill="#70ad47" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="2" x="120" y="101" width="40" height="20"/>
+  <rect id="svg_218" fill="#70ad47" stroke="#000" stroke-opacity="null" stroke-width="2" x="279.992" y="180" width="40" height="20"/>
+  <ellipse id="svg_219" fill="#ff0047" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" cx="655" cy="179.998" rx="3.99996" ry="4"/>
+  <ellipse id="svg_220" fill="#ff0047" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" cx="519.989" cy="400.995" rx="3.99996" ry="3.99996"/>
+  <ellipse id="svg_221" fill="#ff0047" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" cx="525" cy="240.497" rx="4" ry="4.49995"/>
+  <ellipse id="svg_222" fill="#ff0047" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" cx="99.9938" cy="210" rx="4" ry="3.99996"/>
+  <ellipse id="svg_223" fill="#ff0047" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" cx="99.9938" cy="350" rx="4" ry="4"/>
+  <ellipse id="svg_224" fill="#ff0047" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" cx="120" cy="110" rx="4" ry="4.49995"/>
+  <ellipse id="svg_225" fill="#ff0047" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" cx="313" cy="179" rx="4" ry="4.49995"/>
+  <ellipse id="svg_226" fill="#ff0047" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" cx="340" cy="390" rx="4" ry="4.49995"/>
+  <line id="svg_227" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="452" y1="160" x2="548" y2="159.998"/>
+  <line id="svg_228" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="610.988" y1="159.998" x2="634.988" y2="159.998"/>
+  <line id="svg_229" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="839" y1="160" x2="864.985" y2="159.998"/>
+  <line id="svg_230" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="679.987" y1="220" x2="801" y2="220"/>
+  <line id="svg_231" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="480" y1="420" x2="629" y2="419.995"/>
+  <line id="svg_232" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="481" y1="402" x2="481" y2="402"/>
+  <line id="svg_233" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="100" y1="420" x2="382" y2="420"/>
+  <line id="svg_234" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="381" y1="400" x2="380.991" y2="401"/>
+  <line id="svg_235" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="379" y1="180" x2="481" y2="179.998"/>
+  <line id="svg_236" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="179" y1="200" x2="280" y2="200"/>
+  <line id="svg_237" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="180" y1="160" x2="179.993" y2="201"/>
+  <rect id="svg_238" fill="#a5a5a0" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" x="260" y="102" width="29.9997" height="70"/>
+  <line id="svg_240" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="259" y1="126.999" x2="271" y2="126.999"/>
+  <line id="svg_241" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="291" y1="126.999" x2="279" y2="126.999"/>
+  <line id="svg_242" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="100" y1="100" x2="99.9938" y2="201"/>
+  <line id="svg_243" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="99" y1="101" x2="119" y2="101"/>
+  <line id="svg_244" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="100" y1="218.998" x2="100" y2="342.996"/>
+  <line id="svg_245" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="100" y1="359.996" x2="100" y2="421"/>
+  <line id="svg_248" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="160" y1="159" x2="160" y2="180.998"/>
+  <line id="svg_249" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="549" y1="223.997" x2="611" y2="224"/>
+  <line id="svg_250" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="550" y1="224.997" x2="550" y2="400"/>
+  <line id="svg_251" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="181" y1="160.998" x2="260" y2="160.998"/>
+  <line id="svg_252" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="290" y1="160.998" x2="372" y2="159.998"/>
+  <line id="svg_253" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="120.994" y1="158.998" x2="158.993" y2="158.998"/>
+  <line id="svg_254" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="119.994" y1="120" x2="120" y2="160"/>
+  <line id="svg_255" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="119" y1="180" x2="159.993" y2="180"/>
+  <line id="svg_256" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="120" y1="179.998" x2="120" y2="380"/>
+  <line id="svg_257" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="119" y1="380" x2="161" y2="380"/>
+  <line id="svg_258" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="371" y1="159.998" x2="454" y2="160"/>
+  <line id="svg_259" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="259.992" y1="100" x2="259.992" y2="162"/>
+  <line id="svg_260" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="479.99" y1="180" x2="520" y2="180"/>
+  <line id="svg_261" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="519.989" y1="179" x2="520" y2="240"/>
+  <line id="svg_262" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="684" y1="200" x2="821" y2="200"/>
+  <line id="svg_263" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="820" y1="180" x2="819.986" y2="199.998"/>
+  <line id="svg_264" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="800" y1="179.998" x2="840" y2="180"/>
+  <line id="svg_267" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="629" y1="220" x2="841" y2="220"/>
+  <line id="svg_269" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="860" y1="225" x2="859.985" y2="410"/>
+  <line id="svg_270" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="381" y1="381" x2="483" y2="381"/>
+  <line id="svg_271" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="381" y1="381" x2="381" y2="401.995"/>
+  <line id="svg_272" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="481" y1="381.996" x2="481" y2="401.995"/>
+  <line id="svg_273" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="530" y1="258.997" x2="530" y2="402"/>
+  <line id="svg_274" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="610" y1="224.997" x2="610" y2="400"/>
+  <line id="svg_275" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="549" y1="400" x2="611" y2="400"/>
+  <line id="svg_276" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="279.992" y1="380" x2="320" y2="380"/>
+  <line id="svg_277" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="280" y1="380" x2="280" y2="400"/>
+  <line id="svg_278" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="160" y1="400" x2="281" y2="400"/>
+  <line id="svg_279" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="320" y1="200" x2="319.991" y2="381"/>
+  <line id="svg_280" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="360" y1="180" x2="380" y2="180"/>
+  <line id="svg_281" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="359.991" y1="180" x2="360" y2="201"/>
+  <line id="svg_282" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="340" y1="200" x2="360" y2="200"/>
+  <line id="svg_283" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="341" y1="199" x2="341" y2="381"/>
+  <line id="svg_284" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="630" y1="220" x2="629.988" y2="400"/>
+  <line id="svg_285" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="839.986" y1="419.995" x2="858.985" y2="419.995"/>
+  <line id="svg_286" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="860" y1="408.995" x2="860" y2="421"/>
+  <line id="svg_287" fill="none" fill-opacity="null" stroke="#000" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="2" x1="840" y1="220.997" x2="840" y2="400"/>
+  <ellipse id="svg_289" fill="#ffff00" stroke="#000" stroke-opacity="null" stroke-width="0" cx="582" cy="136.000011" rx="6" ry="6"/>
+  <ellipse id="svg_290" fill="#ffff00" stroke="#000" stroke-opacity="null" stroke-width="0" cx="382" cy="410" rx="4" ry="4.49995"/>
+  <ellipse id="svg_291" fill="#ffff00" stroke="#000" stroke-opacity="null" stroke-width="0" cx="480" cy="409.995" rx="4" ry="4"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_3" y2="229.583288" x2="860.416725" y1="179.583284" x1="859.583392" fill-opacity="null" stroke-opacity="null" stroke-width="2" stroke="#000" fill="none"/>
+  <ellipse id="svg_5" fill="#ff0047" fill-opacity="null" stroke="#000" stroke-opacity="null" stroke-width="0" cx="666.000004" cy="189.998004" rx="3.99996" ry="4"/>
+ </g>
+</svg>
